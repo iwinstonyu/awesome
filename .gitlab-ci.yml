@@ -16,3 +16,4 @@ job:
   only:
     - master
     - merge_requests
+    - ywj/dev/test1
