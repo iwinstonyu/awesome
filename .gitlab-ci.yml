@@ -12,3 +12,7 @@ job:
     - awesome
   
   except:
+  
+  only:
+    - master
+    - merge_requests
